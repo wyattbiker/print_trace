@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Build/Launch Active",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/test_trace",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb",
+            "preLaunchTask": "Build test_trace"
+        }   
+    ],
+    "version": "2.0.0"
+}
