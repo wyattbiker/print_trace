@@ -47,7 +47,7 @@ You should see the following output:
 0x100002fd0: (1)  MyClass::myMethod1(int*)
 0x100003087: (2)  main
 ```
-The 1st trace is limoited to a depth of 2, while the 2nd trace is no dept limit.
+The 1st trace is limited to a depth of 2, while the 2nd trace is no dept limit.
 
 
 ### Libraries:
