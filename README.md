@@ -50,3 +50,6 @@ You should see the following output:
 The 1st trace is limoited to a depth of 2, while the 2nd trace is no dept limit.
 
 
+### Libraries:
+[<libunwind.h>](https://www.nongnu.org/libunwind/)  
+[<cxxabi.h>](https://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-4.3/a01696.html)  
